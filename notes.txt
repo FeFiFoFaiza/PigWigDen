@@ -1,0 +1,17 @@
+face 
+    - facial recognition
+        - eigen faces
+
+    - facial verification
+        - 1:1 matching
+
+bird 
+    - amazon
+    - First edge detect a bird (Use grayscale image, get brightness of each pixel, laplacian)
+    - try to identify a bird
+    - try different color birds
+    - species(?) 
+
+
+Credits/Sources:
+https://github.com/Vozak16/LicensePlateRecognitionSystem/tree/main
