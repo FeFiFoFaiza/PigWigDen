@@ -1,3 +1,9 @@
+Canny Edge Algo Done
+Maybe use cv2 and find the object
+Box object do eigen stuff
+
+
+
 face 
     - facial recognition
         - eigen faces
