@@ -2,6 +2,9 @@ Canny Edge Algo Done
 Maybe use cv2 and find the object
 Box object do eigen stuff
 
+Train Module
+Detect photos using Euclidean distance
+
 
 
 face 
