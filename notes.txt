@@ -1,3 +1,12 @@
+Given up on birds. Will do face first then format to birds if I can.
+
+Liberties I've taken:
+    - Using pre grayed out and cropped face photos
+    - Using some pre written functions like mean
+    - Might end up using ML who knows
+
+
+
 face 
     - facial recognition
         - eigen faces
@@ -15,3 +24,10 @@ bird
 
 Credits/Sources:
 https://github.com/Vozak16/LicensePlateRecognitionSystem/tree/main
+
+
+Ask: Hey Mr Honner, 
+Love ur class, reveiwing in college rn, looked thru notes couldnt find it pls 
+
+Talk to profs. Hey I noticed this is ur area of research. I looked at this and need help figuring it out. im trying to understand more about the course. Can you explain that 
+Sincerity is key. Don't make it transactional. Connect with professors early. Go office hours 
