@@ -1,5 +1,6 @@
 import numpy as np
-import os, cv2
+import os
+import cv2
 import matplotlib.pyplot as plt
 
 
@@ -95,12 +96,28 @@ def canny(img, thresLow, thresHigh):
 img = cv2.imread('Bird_Demo.jpg')
 
 # Canny Edge Detection
-cannyEdge = canny(img, None , None)
+# cannyEdge = canny(img, None , None)
 
-plt.figure()
-f, plots = plt.subplots(2, 1)
-plots[0].imshow(img)
-plots[1].imshow(cannyEdge)
+# plt.figure()
+# f, plots = plt.subplots(2, 1)
+# plots[0].imshow(img)
+# plots[1].imshow(cannyEdge)
+# plt.show()
+
+def onlyEdge(img):
+    cannyEdge = canny(img, None , None)
+    plt.figure()
+    plt.imshow(cannyEdge)
+    plt.show()
+    # f, plots = plt.subplots(2, 1)
+    # plots[0].imshow(img)
+    # plots[1].imshow(cannyEdge)
+    # plots[1].imsave('cannyEdge.png', cannyEdge)
+
+#onlyEdge(img)
+
+#cv2.imshow(canny(img, None, None))
+
 
             
 
